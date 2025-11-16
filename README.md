@@ -1,6 +1,6 @@
 <!-- CRAZY CYBERPUNK ANIMATED BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=45&duration=1&pause=500&color=FF00F7&center=true&vCenter=true&width=1000&lines=.;..;...;INITIALIZING+SYSTEM...;BOOTING+ANURAG+PATIL;LOADING+AI+MODULES;ACTIVATING+VOICE+ASSISTANT;DEPLOYING+CHATBOT+CORE;SPINNING+UP+MERN+SERVERS;ENGAGING+FLUTTER+ENGINE;STARTUP+SEQUENCE+COMPLETE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=45&duration=1&pause=500&color=FF00F7&center=true&vCenter=true&width=1000&lines=.;..;...;INITIALIZING+SYSTEM...;BOOTING+ANURAG+PATIL;LOADING+AI+MODULES;ACTIVATING+VOICE+ASSISTANT;DEPLOYING+CHATBOT+CORE;SPINNING+UP+MERN+SERVERS;ENGAGING+FLUTTER+ENGINE;INIT+NEOVIM+CONFIG;STARTUP+SEQUENCE+COMPLETE" />
 </p>
 
 ---
@@ -9,21 +9,21 @@
 ### *AI Developer • Full Stack Engineer • Mobile Developer • System Programmer*
 
 **macOS + Arch Linux + Ubuntu User**  
-**IntelliJ IDEA + PyCharm + VS Code User**
+**VS Code • IntelliJ IDEA • PyCharm • Neovim • Android Studio**
 
 ---
 
 ## 🧠 **About Me**
-I create futuristic software powered by AI, automation and high-performance logic:
+I build futuristic and scalable systems powered by AI and high-performance code:
 
-- 🤖 **AI Chatbots** (LLM integration, reasoning, memory)  
-- 🎙️ **AI Voice Assistants** (STT, TTS, wake-word, pipelines)  
-- 🌐 Full-stack MERN applications  
+- 🤖 **AI Chatbots** (LLMs, memory, smart flows)  
+- 🎙️ **AI Voice Assistants** (STT → LLM → TTS pipelines)  
+- 🌐 Full-stack MERN web applications  
 - 📱 Flutter cross-platform mobile apps  
-- ⚙️ System-level programs in C & C++  
-- 🐍 Automation and scripting in Python  
+- ⚙️ System-level software in C / C++  
+- 🐍 Automation + CLI tools in Python  
 
-Clean UI • Fast Backend • Optimized Systems.
+I focus on **clean UI, fast backend, scalable architecture**.
 
 ---
 
@@ -45,16 +45,16 @@ Clean UI • Fast Backend • Optimized Systems.
 </p>
 
 ### 🤖 **AI / ML**
-- LLM APIs (ChatGPT, OpenAI, Gemini)  
-- NLP, prompt engineering  
-- Speech-to-text + Text-to-speech  
-- AI pipelines + multi-agent logic  
+- LLM integration (OpenAI, Gemini, ChatGPT API)  
+- NLP + Prompt engineering  
+- Speech-to-Text + Text-to-Speech  
+- Multi-agent and pipeline logic  
 
 ---
 
-## 🧰 **Tools / Platforms**
+## 🛠️ **Tools / Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=apple,arch,ubuntu,linux,git,github,vscode,androidstudio,idea,pycharm" />
+  <img src="https://skillicons.dev/icons?i=apple,arch,ubuntu,linux,git,github,vscode,androidstudio,idea,pycharm,neovim" />
 </p>
 
 ---
@@ -62,31 +62,31 @@ Clean UI • Fast Backend • Optimized Systems.
 ## 🤖 **AI Projects**
 
 ### 🗣️ **AI Voice Assistant**
-- Wake-word detection  
+- Wake word activation  
 - Neural STT  
-- LLM-powered replies  
+- LLM-driven intelligent responses  
 - Natural TTS  
-- Works on macOS + Linux  
+- Works on macOS, Ubuntu, Arch  
 
 ### 💬 **AI Chatbot Engine**
-- Memory + context  
-- Agent-based logic  
+- Custom memory + persona  
+- Multi-turn processing  
 - API integrations  
-- Personality modules  
+- Supports multiple AI models  
 
-### 🔧 **Automation Bots**
-- Email bots  
-- Scraping bots  
-- Workflow automation  
-- Python utility tools  
+### 🤖 **Automation Bots**
+- Email + workflow automation  
+- Web scraping bots  
+- Terminal automation  
+- Python CLI tools  
 
 ---
 
 ## 🌱 **Currently Learning**
-- Microservices + distributed systems  
+- Microservices & distributed backends  
 - DevOps (Docker, CI/CD, Kubernetes)  
-- Advanced Flutter architecture  
-- AI pipeline optimization  
+- Advanced Flutter design  
+- AI pipeline optimization & multi-agent systems  
 
 ---
 
