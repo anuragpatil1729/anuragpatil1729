@@ -1,26 +1,29 @@
-<!-- AI / ROBOTIC ANIMATED BANNER -->
+<!-- CRAZY CYBERPUNK ANIMATED BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=38&duration=2800&pause=500&color=00F0FF&center=true&vCenter=true&width=1000&lines=Initializing+Anurag+Patil...;AI+Systems+Online+%E2%9C%85;Booting+AI+Voice+Assistant+Developer;Activating+Chatbot+Engineer;Deploying+Full+Stack+%26+Flutter+Developer;macOS+%2F+Arch+Linux+Unit+Ready" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=45&duration=1&pause=500&color=FF00F7&center=true&vCenter=true&width=1000&lines=.;..;...;INITIALIZING+SYSTEM...;BOOTING+ANURAG+PATIL;LOADING+AI+MODULES;ACTIVATING+VOICE+ASSISTANT;DEPLOYING+CHATBOT+CORE;SPINNING+UP+MERN+SERVERS;ENGAGING+FLUTTER+ENGINE;STARTUP+SEQUENCE+COMPLETE" />
 </p>
 
 ---
 
-# 👾 **Anurag Patil – AI Developer | Full Stack Engineer | Mobile Dev**
-### *macOS / Arch Linux User • AI Chatbots • AI Voice Assistants • MERN • Flutter • C/C++ • Python*
+# 👾 **Anurag Patil**
+### *AI Developer • Full Stack Engineer • Mobile Developer • System Programmer*
+
+**macOS + Arch Linux + Ubuntu User**  
+**IntelliJ IDEA + PyCharm + VS Code User**
 
 ---
 
 ## 🧠 **About Me**
-I'm a developer who loves building futuristic software:
+I create futuristic software powered by AI, automation and high-performance logic:
 
-- 🤖 **AI Chatbots** (LLM integrations, context memory, NLP  
-- 🗣️ **AI Voice Assistants** (STT, TTS, wake-word detection, pipelines)  
-- 🌐 Full-stack MERN web apps  
+- 🤖 **AI Chatbots** (LLM integration, reasoning, memory)  
+- 🎙️ **AI Voice Assistants** (STT, TTS, wake-word, pipelines)  
+- 🌐 Full-stack MERN applications  
 - 📱 Flutter cross-platform mobile apps  
-- ⚙️ System-level programs in C/C++  
-- 🐍 Automation & scripting in Python  
+- ⚙️ System-level programs in C & C++  
+- 🐍 Automation and scripting in Python  
 
-I enjoy **clean UI, performance optimization, and scalable backend systems**.
+Clean UI • Fast Backend • Optimized Systems.
 
 ---
 
@@ -42,46 +45,48 @@ I enjoy **clean UI, performance optimization, and scalable backend systems**.
 </p>
 
 ### 🤖 **AI / ML**
-- LLM Integrations (ChatGPT, Gemini, OpenAI API)  
-- NLP (prompt engineering, conversational flows)  
-- STT + TTS pipelines  
-- AI assistant architectures  
+- LLM APIs (ChatGPT, OpenAI, Gemini)  
+- NLP, prompt engineering  
+- Speech-to-text + Text-to-speech  
+- AI pipelines + multi-agent logic  
 
-### 🧰 **Tools / Platforms**
+---
+
+## 🧰 **Tools / Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=apple,arch,linux,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=apple,arch,ubuntu,linux,git,github,vscode,androidstudio,idea,pycharm" />
 </p>
 
 ---
 
 ## 🤖 **AI Projects**
+
 ### 🗣️ **AI Voice Assistant**
-- Wake-word activation  
-- Speech-to-text  
-- LLM reasoning  
-- Text-to-speech  
-- Runs on Linux/macOS  
+- Wake-word detection  
+- Neural STT  
+- LLM-powered replies  
+- Natural TTS  
+- Works on macOS + Linux  
 
 ### 💬 **AI Chatbot Engine**
-- Custom memory  
-- User profiles  
-- Rich context  
-- Multi-agent support  
+- Memory + context  
+- Agent-based logic  
+- API integrations  
+- Personality modules  
 
-### 🚀 **Automation Bots**
-- Email automation  
-- Code generation  
-- API automation  
-
-Want me to generate **project cards** for your pinned repos? Just tell me.
+### 🔧 **Automation Bots**
+- Email bots  
+- Scraping bots  
+- Workflow automation  
+- Python utility tools  
 
 ---
 
 ## 🌱 **Currently Learning**
-- AI pipeline optimization  
-- Microservices + backend scaling  
-- DevOps (CI/CD, Docker, Kubernetes)  
+- Microservices + distributed systems  
+- DevOps (Docker, CI/CD, Kubernetes)  
 - Advanced Flutter architecture  
+- AI pipeline optimization  
 
 ---
 
@@ -100,7 +105,7 @@ Want me to generate **project cards** for your pinned repos? Just tell me.
 
 ---
 
-## 🔗 **Connect With Me**
+## 🔗 **Connect**
 <p align="center">
   <a href="https://github.com/anuragpatil1729">
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
@@ -109,6 +114,7 @@ Want me to generate **project cards** for your pinned repos? Just tell me.
 
 ---
 
+<!-- OUTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3000&pause=500&color=00FFF0&center=true&vCenter=true&width=700&lines=System+Status%3A+Online;Awaiting+New+Instructions..." />
 </p>
