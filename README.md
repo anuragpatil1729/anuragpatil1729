@@ -1,29 +1,29 @@
 <!-- CRAZY CYBERPUNK ANIMATED BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=45&duration=1&pause=500&color=FF00F7&center=true&vCenter=true&width=1000&lines=.;..;...;INITIALIZING+SYSTEM...;BOOTING+ANURAG+PATIL;LOADING+AI+MODULES;ACTIVATING+VOICE+ASSISTANT;DEPLOYING+CHATBOT+CORE;SPINNING+UP+MERN+SERVERS;ENGAGING+FLUTTER+ENGINE;INIT+NEOVIM+CONFIG;STARTUP+SEQUENCE+COMPLETE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=45&duration=1&pause=500&color=FF00F7&center=true&vCenter=true&width=1000&lines=.;..;...;INITIALIZING+SYSTEM...;BOOTING+ANURAG+PATIL;LOADING+AI+MODULES;ACTIVATING+VOICE+ASSISTANT;DEPLOYING+CHATBOT+CORE;SPINNING+UP+MERN+SERVERS;ENGAGING+FLUTTER+ENGINE;INIT+NEOVIM+CONFIG;KDE+PLASMA+LOADED;GNOME+DESKTOP+LOADED;STARTUP+SEQUENCE+COMPLETE" />
 </p>
 
 ---
 
 # 👾 **Anurag Patil**
-### *AI Developer • Full Stack Engineer • Mobile Developer • System Programmer*
+### *AI Developer • Full-Stack Engineer • Mobile Developer • System Programmer*
 
-**macOS + Arch Linux + Ubuntu User**  
+**macOS + Arch Linux (KDE Plasma) + Ubuntu (GNOME)**  
 **VS Code • IntelliJ IDEA • PyCharm • Neovim • Android Studio**
 
 ---
 
 ## 🧠 **About Me**
-I build futuristic and scalable systems powered by AI and high-performance code:
+I develop futuristic, AI-driven, and scalable systems:
 
-- 🤖 **AI Chatbots** (LLMs, memory, smart flows)  
+- 🤖 **AI Chatbots** (LLMs, reasoning, memory systems)  
 - 🎙️ **AI Voice Assistants** (STT → LLM → TTS pipelines)  
-- 🌐 Full-stack MERN web applications  
+- 🌐 MERN full-stack applications  
 - 📱 Flutter cross-platform mobile apps  
-- ⚙️ System-level software in C / C++  
-- 🐍 Automation + CLI tools in Python  
+- ⚙️ High-performance programs (C / C++)  
+- 🐍 Automation + CLI tools written in Python  
 
-I focus on **clean UI, fast backend, scalable architecture**.
+I combine **clean UI**, **fast backends**, and **system-level efficiency**.
 
 ---
 
@@ -45,10 +45,10 @@ I focus on **clean UI, fast backend, scalable architecture**.
 </p>
 
 ### 🤖 **AI / ML**
-- LLM integration (OpenAI, Gemini, ChatGPT API)  
-- NLP + Prompt engineering  
-- Speech-to-Text + Text-to-Speech  
-- Multi-agent and pipeline logic  
+- OpenAI, ChatGPT, Gemini integrations  
+- NLP, prompt engineering  
+- Speech-to-text + Text-to-speech  
+- AI pipelines + multi-agent logic  
 
 ---
 
@@ -59,34 +59,41 @@ I focus on **clean UI, fast backend, scalable architecture**.
 
 ---
 
+## 🖥️ **Desktop Environments**
+<p>
+  <img src="https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" />
+</p>
+
+---
+
 ## 🤖 **AI Projects**
 
 ### 🗣️ **AI Voice Assistant**
 - Wake word activation  
 - Neural STT  
-- LLM-driven intelligent responses  
+- LLM-powered intelligent responses  
 - Natural TTS  
-- Works on macOS, Ubuntu, Arch  
+- Runs on macOS, Arch (KDE), Ubuntu (GNOME)  
 
 ### 💬 **AI Chatbot Engine**
-- Custom memory + persona  
-- Multi-turn processing  
+- Context memory + personas  
+- Multi-turn logic  
 - API integrations  
-- Supports multiple AI models  
+- Multi-model support  
 
-### 🤖 **Automation Bots**
-- Email + workflow automation  
-- Web scraping bots  
-- Terminal automation  
-- Python CLI tools  
+### 🔧 **Automation Tools**
+- Email/task automation  
+- Web scraping  
+- Python CLI utilities  
 
 ---
 
 ## 🌱 **Currently Learning**
-- Microservices & distributed backends  
-- DevOps (Docker, CI/CD, Kubernetes)  
-- Advanced Flutter design  
-- AI pipeline optimization & multi-agent systems  
+- Microservices & distributed systems  
+- Docker / CI/CD / Kubernetes  
+- AI pipeline scaling  
+- Advanced Flutter performance  
 
 ---
 
@@ -116,5 +123,5 @@ I focus on **clean UI, fast backend, scalable architecture**.
 
 <!-- OUTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3000&pause=500&color=00FFF0&center=true&vCenter=true&width=700&lines=System+Status%3A+Online;Awaiting+New+Instructions..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3000&pause=500&color=00FFF0&center=true&vCenter=true&width=700&lines=System+Status%3A+Online;KDE+Plasma+Stable;GNOME+Session+Running;Awaiting+New+Instructions..." />
 </p>
