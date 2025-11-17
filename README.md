@@ -55,7 +55,7 @@ I combine **clean UI**, **fast backend logic**, and **system-level optimization*
 
 ## 🛠️ **Tools / Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=apple,arch,ubuntu,linux,git,github,vscode,androidstudio,idea,pycharm,neovim,postman,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=apple,arch,ubuntu,linux,git,github,vscode,androidstudio,idea,pycharm,neovim" />
 </p>
 
 ---
