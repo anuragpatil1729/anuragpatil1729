@@ -6,7 +6,7 @@
 ---
 
 # 👾 **Anurag Patil**
-### *AI Developer • Full-Stack Engineer • Mobile Developer • System Programmer*
+### *AI Developer • Full-Stack developer • Android/IOS Developer • MERN stack developer • System Programmer *
 
 **Operating System : macOS + Arch Linux (KDE Plasma) + Ubuntu (GNOME)**  
 **IDE : VS Code • IntelliJ IDEA • PyCharm • Neovim • Android Studio**
