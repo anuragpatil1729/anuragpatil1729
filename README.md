@@ -1,6 +1,6 @@
 <!-- CRAZY CYBERPUNK ANIMATED BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=45&duration=1&pause=500&color=FF00F7&center=true&vCenter=true&width=1000&lines=.;..;...;INITIALIZING+SYSTEM...;BOOTING+ANURAG+PATIL;LOADING+AI+MODULES;ACTIVATING+VOICE+ASSISTANT;DEPLOYING+CHATBOT+CORE;SPINNING+UP+MERN+SERVERS;ENGAGING+FLUTTER+ENGINE;INIT+NEOVIM+CONFIG;KDE+PLASMA+LOADED;GNOME+DESKTOP+LOADED;STARTUP+SEQUENCE+COMPLETE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=45&duration=1&pause=500&color=FF00F7&center=true&vCenter=true&width=1000&lines=.;..;...;INITIALIZING+SYSTEM...;BOOTING+ANURAG+PATIL;LOADING+AI+MODULES;ACTIVATING+VOICE+ASSISTANT;DEPLOYING+CHATBOT+CORE;SPINNING+UP+MERN+SERVERS;ENGAGING+FLUTTER+ENGINE;INIT+NEOVIM+CONFIG;KDE+PLASMA+LOADED;GNOME+DESKTOP+LOADED;POSTMAN+ONLINE;FIREBASE+CONNECTED;SUPABASE+LINKED;STARTUP+SEQUENCE+COMPLETE" />
 </p>
 
 ---
@@ -8,22 +8,22 @@
 # 👾 **Anurag Patil**
 ### *AI Developer • Full-Stack Engineer • Mobile Developer • System Programmer*
 
-**macOS + Arch Linux (KDE Plasma) + Ubuntu (GNOME)**  
-**VS Code • IntelliJ IDEA • PyCharm • Neovim • Android Studio**
+**Operating System : macOS + Arch Linux (KDE Plasma) + Ubuntu (GNOME)**  
+**IDE : VS Code • IntelliJ IDEA • PyCharm • Neovim • Android Studio**
 
 ---
 
 ## 🧠 **About Me**
-I develop futuristic, AI-driven, and scalable systems:
+I build futuristic, AI-powered, high-performance systems:
 
-- 🤖 **AI Chatbots** (LLMs, reasoning, memory systems)  
+- 🤖 **AI Chatbots** (LLMs, agent systems, memory engines)  
 - 🎙️ **AI Voice Assistants** (STT → LLM → TTS pipelines)  
 - 🌐 MERN full-stack applications  
 - 📱 Flutter cross-platform mobile apps  
-- ⚙️ High-performance programs (C / C++)  
-- 🐍 Automation + CLI tools written in Python  
+- ⚙️ System-level applications in **C / C++**  
+- 🐍 Python automation tools & CLI utilities  
 
-I combine **clean UI**, **fast backends**, and **system-level efficiency**.
+I combine **clean UI**, **fast backend logic**, and **system-level optimization**.
 
 ---
 
@@ -39,22 +39,23 @@ I combine **clean UI**, **fast backends**, and **system-level efficiency**.
   <img src="https://skillicons.dev/icons?i=react,tailwind,flutter" />
 </p>
 
-### 🖥️ **Backend**
+### 🖥️ **Backend + Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,postman" />
 </p>
 
 ### 🤖 **AI / ML**
-- OpenAI, ChatGPT, Gemini integrations  
-- NLP, prompt engineering  
-- Speech-to-text + Text-to-speech  
-- AI pipelines + multi-agent logic  
+- ChatGPT, OpenAI, Gemini LLM integration  
+- NLP, prompt-engineering & pipelines  
+- Speech Recognition (STT)  
+- Neural TTS + audio synthesis  
+- Multi-agent AI systems  
 
 ---
 
 ## 🛠️ **Tools / Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=apple,arch,ubuntu,linux,git,github,vscode,androidstudio,idea,pycharm,neovim" />
+  <img src="https://skillicons.dev/icons?i=apple,arch,ubuntu,linux,git,github,vscode,androidstudio,idea,pycharm,neovim,postman,firebase,supabase" />
 </p>
 
 ---
@@ -70,30 +71,31 @@ I combine **clean UI**, **fast backends**, and **system-level efficiency**.
 ## 🤖 **AI Projects**
 
 ### 🗣️ **AI Voice Assistant**
-- Wake word activation  
+- Wake-word activation  
 - Neural STT  
-- LLM-powered intelligent responses  
+- LLM-powered intelligent replies  
 - Natural TTS  
-- Runs on macOS, Arch (KDE), Ubuntu (GNOME)  
+- Multi-platform (macOS, Arch KDE, Ubuntu GNOME)  
 
 ### 💬 **AI Chatbot Engine**
-- Context memory + personas  
-- Multi-turn logic  
-- API integrations  
-- Multi-model support  
+- Memory system & personas  
+- Multi-turn reasoning  
+- Multiple LLM models  
+- API integration  
 
 ### 🔧 **Automation Tools**
-- Email/task automation  
+- Email automation  
 - Web scraping  
-- Python CLI utilities  
+- Python CLI tools  
+- Task automation bots  
 
 ---
 
 ## 🌱 **Currently Learning**
-- Microservices & distributed systems  
-- Docker / CI/CD / Kubernetes  
-- AI pipeline scaling  
+- Microservices architecture  
+- Docker • Kubernetes • CI/CD  
 - Advanced Flutter performance  
+- AI pipeline optimization & scaling  
 
 ---
 
@@ -123,5 +125,5 @@ I combine **clean UI**, **fast backends**, and **system-level efficiency**.
 
 <!-- OUTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3000&pause=500&color=00FFF0&center=true&vCenter=true&width=700&lines=System+Status%3A+Online;KDE+Plasma+Stable;GNOME+Session+Running;Awaiting+New+Instructions..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3000&pause=500&color=00FFF0&center=true&vCenter=true&width=700&lines=System+Status%3A+Online;Postman+Ready;Firebase+Linked;Supabase+Synced;Awaiting+New+Instructions..." />
 </p>
