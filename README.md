@@ -114,15 +114,6 @@ I combine **clean UI**, **fast backend logic**, and **system-level optimization*
 
 ---
 
-## 🔗 **Connect**
-<p align="center">
-  <a href="https://github.com/anuragpatil1729">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
-</p>
-
----
-
 <!-- OUTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3000&pause=500&color=00FFF0&center=true&vCenter=true&width=700&lines=System+Status%3A+Online;Postman+Ready;Firebase+Linked;Supabase+Synced;Awaiting+New+Instructions..." />
