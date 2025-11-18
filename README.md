@@ -102,7 +102,6 @@ I combine **clean UI**, **fast backend logic**, and **system-level optimization*
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuragpatil1729&show_icons=true&theme=react" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpatil1729&theme=react" height="165"/>
 </p>
 
 ---
