@@ -23,7 +23,17 @@ VS Code • Android Studio • Neovim
 
 ---
 
+# 💀 **HOLOGRAPHIC STAT PANEL**
 
+<div align="center">
+
+<img src="https://github-readme-stats-anurag.vercel.app/api?username=anuragpatil1729&show_icons=true&theme=react&border_color=F700FF&title_color=F700FF&icon_color=00F0FF" height="170"/>
+
+<img src="https://github-readme-stats-anurag.vercel.app/api/top-langs?username=anuragpatil1729&layout=compact&theme=react&border_color=00FFF0&title_color=F700FF" height="200"/>
+
+<img src="https://streak-stats.demolab.com?user=anuragpatil1729&theme=neon-dark&border_radius=8" height="200"/>
+
+</div>
 
 ---
 
@@ -50,20 +60,6 @@ VS Code • Android Studio • Neovim
 - Memory Embedding Injectors  
 - Multi-Agent AI Swarms  
 - Predictive Cyber-Reasoning  
-
----
-
-# 💀 **HOLOGRAPHIC STAT PANEL**
-
-<div align="center">
-
-<img src="https://github-readme-stats-anurag.vercel.app/api?username=anuragpatil1729&show_icons=true&theme=react&border_color=F700FF&title_color=F700FF&icon_color=00F0FF" height="170"/>
-
-<img src="https://github-readme-stats-anurag.vercel.app/api/top-langs?username=anuragpatil1729&layout=compact&theme=react&border_color=00FFF0&title_color=F700FF" height="200"/>
-
-<img src="https://streak-stats.demolab.com?user=anuragpatil1729&theme=neon-dark&border_radius=8" height="200"/>
-
-</div>
 
 ---
 
