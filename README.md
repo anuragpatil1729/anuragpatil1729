@@ -17,7 +17,7 @@
 macOS • Arch Linux (KDE Plasma) • Ubuntu (GNOME)
 
 💾 **IDEs + Tools:**  
-VS Code • IntelliJ IDEA • PyCharm • Android Studio • Neovim
+VS Code • Android Studio • Neovim
 
 </div>
 
