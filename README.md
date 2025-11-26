@@ -69,7 +69,6 @@ VS Code • Android Studio • Neovim
 
 ---
 
-# ⚡ **LIVE SYSTEM FEED**
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
