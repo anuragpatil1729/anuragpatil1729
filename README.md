@@ -1,4 +1,4 @@
-<!-- CRAZY CYBERPUNK ANIMATED BANNER -->
+<!-- CYBERPUNK ANIMATED STARTUP BANNER -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=45&duration=1&pause=500&color=FF00F7&center=true&vCenter=true&width=1000&lines=.;..;...;INITIALIZING+SYSTEM...;BOOTING+ANURAG+PATIL;LOADING+AI+MODULES;ACTIVATING+VOICE+ASSISTANT;DEPLOYING+CHATBOT+CORE;SPINNING+UP+MERN+SERVERS;ENGAGING+FLUTTER+ENGINE;INIT+NEOVIM+CONFIG;KDE+PLASMA+LOADED;GNOME+DESKTOP+LOADED;POSTMAN+ONLINE;FIREBASE+CONNECTED;SUPABASE+LINKED;STARTUP+SEQUENCE+COMPLETE"/>
 </p>
@@ -6,10 +6,10 @@
 ---
 
 # 👾 **Anurag Patil**
-### *AI Developer • Full-Stack Developer • Android/IOS Developer • MERN Stack Developer • Blockchain Developer • System Programmer*
+### *AI Developer • Full-Stack Developer • Android/iOS Developer • MERN Stack Developer • Blockchain Developer • System Programmer*
 
-**Operating System:** macOS • Arch Linux (KDE Plasma) • Ubuntu (GNOME)  
-**IDE:** VS Code • IntelliJ IDEA • PyCharm • Neovim • Android Studio  
+**Operating Systems:** macOS • Arch Linux (KDE Plasma) • Ubuntu (GNOME)  
+**IDEs:** VS Code • IntelliJ IDEA • PyCharm • Neovim • Android Studio  
 
 ---
 
@@ -17,14 +17,14 @@
 
 I build futuristic, AI-powered, high-performance systems:
 
-- 🤖 **AI Chatbots** (LLMs, agent systems, memory engines)  
+- 🤖 **AI Chatbots** (LLMs, multi-agent systems, memory engines)  
 - 🎙️ **AI Voice Assistants** (STT → LLM → TTS pipelines)  
-- 🌐 MERN full-stack applications  
-- 📱 Flutter cross-platform mobile apps  
-- ⚙️ System-level applications in **C / C++**  
-- 🐍 Python automation tools & CLI utilities  
+- 🌐 **MERN full-stack applications**  
+- 📱 **Flutter cross-platform mobile apps**  
+- ⚙️ **System-level apps (C / C++)**  
+- 🐍 **Python automation tools & CLI utilities**  
 
-I combine **clean UI**, **fast backend logic**, and **system-level optimization**.
+I combine **clean UI**, **fast backend logic**, and **low-level optimizations**.
 
 ---
 
@@ -46,10 +46,10 @@ I combine **clean UI**, **fast backend logic**, and **system-level optimization*
 </p>
 
 ### 🤖 **AI / ML**
-- ChatGPT, OpenAI, Gemini LLM integration  
-- NLP, prompt-engineering & pipelines  
+- ChatGPT, OpenAI, Gemini integration  
+- NLP, prompt-engineering & LLM pipelines  
 - Speech Recognition (STT)  
-- Neural TTS + audio synthesis  
+- Neural TTS synthesis  
 - Multi-agent AI systems  
 
 ---
@@ -73,15 +73,15 @@ I combine **clean UI**, **fast backend logic**, and **system-level optimization*
 
 ### 🗣️ **AI Voice Assistant**
 - Wake-word activation  
-- Neural STT  
-- LLM-powered intelligent replies  
+- Neural Speech-to-Text  
+- LLM-based intelligent replies  
 - Natural TTS  
-- Multi-platform (macOS, Arch KDE, Ubuntu GNOME)  
+- macOS • Arch KDE • Ubuntu GNOME  
 
 ### 💬 **AI Chatbot Engine**
 - Memory system & personas  
 - Multi-turn reasoning  
-- Multiple LLM models  
+- Multi-LLM architecture  
 - API integration  
 
 ### 🔧 **Automation Tools**
@@ -93,27 +93,35 @@ I combine **clean UI**, **fast backend logic**, and **system-level optimization*
 ---
 
 ## 🌱 **Currently Learning**
-- Microservices architecture  
+- Microservices  
 - Docker • Kubernetes • CI/CD  
-- Advanced Flutter performance  
-- AI pipeline optimization & scaling  
+- Flutter performance optimization  
+- AI pipeline scaling  
 
 ---
 
 ## 📊 **GitHub Stats**
+
 <p align="center">
-  <img src="https://github-readme-stats-anurag-33ay8rgwk-anuragpatil1729s-projects.vercel.app/api?username=anuragpatil1729&show_icons=true&theme=react" height="165"/>
+  <img 
+    src="https://github-readme-stats-anurag.vercel.app/api?username=anuragpatil1729&show_icons=true&theme=react"
+    height="165"
+  />
 </p>
 
 ---
 
 ## 🧬 **Most Used Languages**
+
 <p align="center">
-  <img src="https://github-readme-stats-anurag-33ay8rgwk-anuragpatil1729s-projects.vercel.app/api/top-langs?username=anuragpatil1729&layout=compact&theme=react"/>
+  <img 
+    src="https://github-readme-stats-anurag.vercel.app/api/top-langs?username=anuragpatil1729&layout=compact&theme=react"
+  />
 </p>
 
 ---
 
+<!-- OUTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=3000&pause=500&color=00FFF0&center=true&vCenter=true&width=700&lines=System+Status%3A+Online;Postman+Ready;Firebase+Linked;Supabase+Synced;Awaiting+New+Instructions..." />
 </p>
