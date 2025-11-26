@@ -13,7 +13,7 @@
 # 🟣⚡ **A N U R A G — P A T I L** ⚡🟣  
 ### *AI Developer • Full-Stack Developer • Android/iOS Developer • MERN Stack Developer • Blockchain Developer • System Programmer*
 
-🎛️ **Operating System:**  
+🎛️ **Operating Systems:**  
 macOS • Arch Linux (KDE Plasma) • Ubuntu (GNOME)
 
 💾 **IDEs + Tools:**  
@@ -24,7 +24,6 @@ VS Code • Android Studio • Neovim
 ---
 
 # 💀 **HOLOGRAPHIC STAT PANEL**
-
 <div align="center">
 
 <img src="https://github-readme-stats-anurag.vercel.app/api?username=anuragpatil1729&show_icons=true&theme=react&border_color=F700FF&title_color=F700FF&icon_color=00F0FF" height="170"/>
@@ -35,14 +34,16 @@ VS Code • Android Studio • Neovim
 
 </div>
 
-# 🛸 **ANOMALY GRAPH **  
+---
+
+# 🛸 **ANOMALY GRAPH**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragpatil1729&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
 
-# 🧬 **TECH AUGMENTATIONS **
+# 🧬 **TECH AUGMENTATIONS**
 
 ### 🟪 Neural Languages  
 <p align="center">
@@ -68,14 +69,13 @@ VS Code • Android Studio • Neovim
 
 ---
 
-# ⚡ **LIVE SYSTEM FEED **
-
+# ⚡ **LIVE SYSTEM FEED**
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-# 🔥 **DAILY PROPHECY**  
+# 🔥 **DAILY PROPHECY**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
 </p>
