@@ -35,6 +35,11 @@ VS Code • Android Studio • Neovim
 
 </div>
 
+# 🛸 **ANOMALY GRAPH **  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragpatil1729&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
 ---
 
 # 🧬 **TECH AUGMENTATIONS **
@@ -67,13 +72,6 @@ VS Code • Android Studio • Neovim
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-# 🛸 **ANOMALY GRAPH (Neural Activity)**  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragpatil1729&theme=react-dark&hide_border=true&area=true"/>
-</p>
 
 ---
 
