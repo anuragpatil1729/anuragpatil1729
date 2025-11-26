@@ -1,0 +1,23 @@
+name: Update README with recent activity
+
+on:
+  schedule:
+    - cron: "0 * * * *" # every hour (change if you want)
+  workflow_dispatch:     # allows manual run from Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update recent activity in README
+        uses: Readme-Workflows/recent-activity@v2
+        with:
+          GH_USERNAME: anuragpatil1729
+          COMMIT_MSG: "⚡ Update README with recent activity"
+          MAX_LINES: 5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
