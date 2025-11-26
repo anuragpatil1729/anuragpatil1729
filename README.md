@@ -88,11 +88,39 @@ My work focuses on:
 
 ---
 
-# ⚡ **RECENT GITHUB ACTIVITY (Auto-Updating)**
+# ⚡ **RECENT GITHUB ACTIVITY (Auto-Updating)**  
+*(This section updates automatically using GitHub Actions)*
 
-Below section updates automatically using **GitHub Actions**  
-(`.github/workflows/activity.yml`)
-
-```md
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+---
+
+# 🧠 **DAILY AI QUOTE (Dynamic)**
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+# 📈 **ACTIVITY GRAPH (Dynamic)**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragpatil1729&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🛸 **SYSTEM STATUS**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=27&duration=3000&pause=800&color=00FFF0&center=true&vCenter=true&width=700&lines=AI+Pipelines+Stable...;Neural+Nodes+Synced...;APIs+Connected...;Awaiting+Instructions..."/>
+</p>
+
+---
+
+<div align="center">
+
+# 🟣⚡ **"Engineering the future with code + intelligence."** ⚡🟣
+
+</div>
