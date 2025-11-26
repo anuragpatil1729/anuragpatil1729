@@ -1,127 +1,98 @@
-<!-- CYBERPUNK ANIMATED STARTUP BANNER -->
+<!-- CYBERPUNK NEON BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=45&duration=1&pause=500&color=FF00F7&center=true&vCenter=true&width=1000&lines=.;..;...;INITIALIZING+SYSTEM...;BOOTING+ANURAG+PATIL;LOADING+AI+MODULES;ACTIVATING+VOICE+ASSISTANT;DEPLOYING+CHATBOT+CORE;SPINNING+UP+MERN+SERVERS;ENGAGING+FLUTTER+ENGINE;INIT+NEOVIM+CONFIG;KDE+PLASMA+LOADED;GNOME+DESKTOP+LOADED;POSTMAN+ONLINE;FIREBASE+CONNECTED;SUPABASE+LINKED;STARTUP+SEQUENCE+COMPLETE"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=45&duration=1&pause=500&color=FF00F7&center=true&vCenter=true&width=1000&lines=>>>+ANURAG+PATIL+SYSTEM+BOOT+<<<;Initializing+Neural+Engines...;Loading+AI+Modules...;Compiling+Frontend+UI...;Deploying+Backend+Nodes...;System+Online."/>
 </p>
 
 ---
 
-# 👾 **Anurag Patil**
-### *AI Developer • Full-Stack Developer • Android/iOS Developer • MERN Stack Developer • Blockchain Developer • System Programmer*
+<div align="center">
 
-**Operating Systems:** macOS • Arch Linux (KDE Plasma) • Ubuntu (GNOME)  
-**IDEs:** VS Code • IntelliJ IDEA • PyCharm • Neovim • Android Studio  
+# 🟣⚡ **ANURAG PATIL** ⚡🟣  
+### *AI Engineer • Full Stack Developer • Mobile Dev • System Programmer*
 
----
+💻 **macOS | Arch Linux (KDE) | Ubuntu (GNOME)**  
+🛠️ **VS Code • IntelliJ • PyCharm • Neovim • Android Studio**
 
-## 🧠 **About Me**
-
-I build futuristic, AI-powered, high-performance systems:
-
-- 🤖 **AI Chatbots** (LLMs, multi-agent systems, memory engines)  
-- 🎙️ **AI Voice Assistants** (STT → LLM → TTS pipelines)  
-- 🌐 **MERN full-stack applications**  
-- 📱 **Flutter cross-platform mobile apps**  
-- ⚙️ **System-level apps (C / C++)**  
-- 🐍 **Python automation tools & CLI utilities**  
-
-I combine **clean UI**, **fast backend logic**, and **low-level optimizations**.
+</div>
 
 ---
 
-## 🧰 **Tech Stack**
+# 👾 **ABOUT ME**
 
-### 🔤 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,js,ts,html,css" />
-</p>
+I engineer **AI-first systems**, combining performance, UI polish, and low-level optimization.  
+My work focuses on:
 
-### 🎨 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,flutter" />
-</p>
-
-### 🖥️ **Backend + Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,postman" />
-</p>
-
-### 🤖 **AI / ML**
-- ChatGPT, OpenAI, Gemini integration  
-- NLP, prompt-engineering & LLM pipelines  
-- Speech Recognition (STT)  
-- Neural TTS synthesis  
-- Multi-agent AI systems  
+- 🤖 AI Chatbots & Multi-Agent Systems  
+- 🎙️ AI Voice Assistants (Wake Word → STT → LLM → TTS)  
+- 🌐 MERN Full-Stack Apps  
+- 📱 Flutter Mobile Apps  
+- ⚙️ C/C++ System Tools  
+- 🐍 Automation CLI Tools  
 
 ---
 
-## 🛠️ **Tools / Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=apple,arch,ubuntu,linux,git,github,vscode,androidstudio,idea,pycharm,neovim" />
-</p>
+# 🧬 **TECH STACK**
 
----
-
-## 🖥️ **Desktop Environments**
-<p>
-  <img src="https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" />
-</p>
-
----
-
-## 🤖 **AI Projects**
-
-### 🗣️ **AI Voice Assistant**
-- Wake-word activation  
-- Neural Speech-to-Text  
-- LLM-based intelligent replies  
-- Natural TTS  
-- macOS • Arch KDE • Ubuntu GNOME  
-
-### 💬 **AI Chatbot Engine**
-- Memory system & personas  
-- Multi-turn reasoning  
-- Multi-LLM architecture  
-- API integration  
-
-### 🔧 **Automation Tools**
-- Email automation  
-- Web scraping  
-- Python CLI tools  
-- Task automation bots  
-
----
-
-## 🌱 **Currently Learning**
-- Microservices  
-- Docker • Kubernetes • CI/CD  
-- Flutter performance optimization  
-- AI pipeline scaling  
-
----
-
-## 📊 **GitHub Stats**
-
+### 🟦 Languages
 <p align="center">
-  <img 
-    src="https://github-readme-stats-anurag.vercel.app/api?username=anuragpatil1729&show_icons=true&theme=react"
-    height="165"
-  />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,js,ts,html,css" height="50"/>
+</p>
+
+### 🟪 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,flutter" height="50"/>
+</p>
+
+### 🟩 Backend / Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,postman" height="50"/>
+</p>
+
+### 🟧 AI / ML
+- LLMs (OpenAI, Gemini, Local models)  
+- STT / TTS neural pipelines  
+- Multi-agent orchestration  
+- Prompt engineering  
+- Vector stores & memory systems  
+
+---
+
+# 🛠️ **TOOLS / PLATFORMS**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apple,arch,ubuntu,linux,git,github,vscode,androidstudio,idea,pycharm,neovim" height="50"/>
 </p>
 
 ---
 
-## 🧬 **Most Used Languages**
-
+# 🖥️ **DESKTOP ENVIRONMENTS**
 <p align="center">
-  <img 
-    src="https://github-readme-stats-anurag.vercel.app/api/top-langs?username=anuragpatil1729&layout=compact&theme=react"
-  />
+  <img src="https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white"/>
 </p>
 
 ---
 
-<!-- OUTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=3000&pause=500&color=00FFF0&center=true&vCenter=true&width=700&lines=System+Status%3A+Online;Postman+Ready;Firebase+Linked;Supabase+Synced;Awaiting+New+Instructions..." />
-</p>
+# 🔥 **GITHUB STATS (Dynamic)**
+
+<div align="center">
+
+<img src="https://github-readme-stats-anurag.vercel.app/api?username=anuragpatil1729&show_icons=true&theme=react&border_color=FF00F7" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats-anurag.vercel.app/api/top-langs?username=anuragpatil1729&layout=compact&theme=react&border_color=00FFF0" height="200"/>
+
+<img src="https://streak-stats.demolab.com?user=anuragpatil1729&theme=neon-dark&border_radius=7" height="200"/>
+
+</div>
+
+---
+
+# ⚡ **RECENT GITHUB ACTIVITY (Auto-Updating)**
+
+Below section updates automatically using **GitHub Actions**  
+(`.github/workflows/activity.yml`)
+
+```md
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
