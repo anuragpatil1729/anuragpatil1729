@@ -23,12 +23,11 @@ VS Code • Android Studio • Neovim
 
 ---
 
-# 🔥 **SYSTEM PROFILE (YOUR ORIGINAL INFO + CYBERPUNK FORMAT)**
 
 
 ---
 
-# 🧬 **TECH AUGMENTATIONS (Implants Installed)**
+# 🧬 **TECH AUGMENTATIONS **
 
 ### 🟪 Neural Languages  
 <p align="center">
@@ -68,7 +67,7 @@ VS Code • Android Studio • Neovim
 
 ---
 
-# ⚡ **LIVE SYSTEM FEED (Auto-Updating Logs)**
+# ⚡ **LIVE SYSTEM FEED **
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -82,7 +81,7 @@ VS Code • Android Studio • Neovim
 
 ---
 
-# 🔥 **DAILY AI PROPHECY**  
+# 🔥 **DAILY PROPHECY**  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
 </p>
