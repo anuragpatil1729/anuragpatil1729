@@ -1,3 +1,30 @@
+<!-- ULTRA-CRAZY NEON SYSTEM BOOT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=42&duration=1&pause=500&color=F700FF&center=true&vCenter=true&width=1200&lines=>>>+NEURAL+SYSTEM+BOOTING+<<<;Decrypting+Identity...;Injecting+Bio-Signature...;Spawning+Holo-Interface...;LOADING+ANURAG+PATIL;ACCESS+LEVEL:+OMEGA;SYSTEM+STATUS:+UNSTABLE+//+OVERPOWERED" />
+</p>
+
+<!-- GLITCH PANEL -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ItsAnuragAssets/glitch-frames/main/mega_glitch.gif" width="900"/>
+</p>
+
+<div align="center">
+
+# 🟣⚡ **A N U R A G — P A T I L** ⚡🟣  
+### *AI Developer • Full-Stack Developer • Android/iOS Developer • MERN Stack Developer • Blockchain Developer • System Programmer*
+
+🎛️ **Operating System:**  
+macOS • Arch Linux (KDE Plasma) • Ubuntu (GNOME)
+
+💾 **IDEs + Tools:**  
+VS Code • IntelliJ IDEA • PyCharm • Android Studio • Neovim
+
+</div>
+
+---
+
+# 🔥 **SYSTEM PROFILE (YOUR ORIGINAL INFO + CYBERPUNK FORMAT)**
+
 
 ---
 
