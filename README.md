@@ -30,7 +30,7 @@ VS Code • Android Studio • Neovim
 
 <img src="https://github-readme-stats-anurag.vercel.app/api/top-langs?username=anuragpatil1729&layout=compact&theme=react&border_color=00FFF0&title_color=F700FF" height="200"/>
 
-<img src="https://streak-stats.demolab.com?user=anuragpatil1729&theme=neon-dark&border_radius=8" height="200"/>
+
 
 </div>
 
