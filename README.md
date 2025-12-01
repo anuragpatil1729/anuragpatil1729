@@ -11,7 +11,7 @@
 <div align="center">
 
 ** A N U R A G P A T I L ** 
-### *AI Developer • Full-Stack Developer • Android/iOS Developer • MERN Stack Developer • Blockchain Developer • System Programmer*
+### *AI Developer • Full-Stack Developer • Android/iOS Developer • System Programmer*
 
 🎛️ **Operating Systems:**  
 macOS • Arch Linux (KDE Plasma) • Ubuntu (GNOME)
