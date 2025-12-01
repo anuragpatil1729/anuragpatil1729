@@ -10,7 +10,7 @@
 
 <div align="center">
 
-** A N U R A G P A T I L ** 
+** **A N U R A G  P A T I L** ** 
 ### *AI Developer • Full-Stack Developer • Android/iOS Developer • System Programmer*
 
 🎛️ **Operating Systems:**  
