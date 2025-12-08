@@ -69,10 +69,14 @@ class AnuragPatil:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuragpatil1729&show_icons=true&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=F700FF&bg_color=0D1117&hide_border=false" height="180"/>
-<img src="https://streak-stats.demolab.com?user=anuragpatil1729&theme=tokyonight&border=00F7FF&background=0D1117" height="180"/>
+<a href="https://github.com/anuragpatil1729">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuragpatil1729&show_icons=true&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=F700FF&bg_color=0D1117&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpatil1729&theme=tokyonight&border=00F7FF&background=0D1117&stroke=00F7FF&ring=F700FF&fire=F700FF&currStreakLabel=00F7FF"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragpatil1729&layout=compact&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&bg_color=0D1117" height="180"/>
+<a href="https://github.com/anuragpatil1729">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpatil1729&layout=compact&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&bg_color=0D1117&langs_count=8"/>
+</a>
 
 </div>
 
