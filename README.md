@@ -42,7 +42,7 @@ class AnuragPatil:
 
 | 🖥️ Operating Systems | 🛠️ Primary IDEs |
 |:---:|:---:|
-| macOS • Arch Linux (KDE) • Ubuntu (GNOME) | VS Code • Android Studio • Neovim |
+| macOS • Arch Linux (KDE Plasma) • Ubuntu (GNOME) | VS Code • Android Studio • Neovim |
 
 </div>
 
@@ -146,7 +146,6 @@ class AnuragPatil:
 
 <div align="center">
 
-### 🌟 *"Code is poetry. AI is magic. Together, we build the impossible."* 🌟
 
 ```
 > Initializing next breakthrough...
