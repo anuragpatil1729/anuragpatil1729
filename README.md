@@ -23,6 +23,8 @@
 
 ## 🎯 CORE DIRECTIVES
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ```python
 class AnuragPatil:
     def __init__(self):
@@ -47,6 +49,8 @@ class AnuragPatil:
         }
 ```
 
+<br clear="both">
+
 ---
 
 ## 💻 DEVELOPMENT ENVIRONMENT
@@ -65,10 +69,10 @@ class AnuragPatil:
 
 <div align="center">
 
-<img src="https://github-readme-stats-anurag.vercel.app/api?username=anuragpatil1729&show_icons=true&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=F700FF&bg_color=0D1117&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuragpatil1729&show_icons=true&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=F700FF&bg_color=0D1117&hide_border=false" height="180"/>
+<img src="https://streak-stats.demolab.com?user=anuragpatil1729&theme=tokyonight&border=00F7FF&background=0D1117" height="180"/>
 
-
-<img src="https://github-readme-stats-anurag.vercel.app/api/top-langs?username=anuragpatil1729&layout=compact&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&bg_color=0D1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragpatil1729&layout=compact&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&bg_color=0D1117" height="180"/>
 
 </div>
 
@@ -167,7 +171,7 @@ class AnuragPatil:
 > Status: READY TO INNOVATE
 ```
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anuragpatil1729.anuragpatil1729)](https://github.com/anuragpatil1729)
+[![Visitors](https://komarev.com/ghpvc/?username=anuragpatil1729&label=Profile+Views&color=00F7FF&style=flat-square)](https://github.com/anuragpatil1729)
 
 **⚡ Transforming ideas into intelligent reality — one commit at a time ⚡**
 
