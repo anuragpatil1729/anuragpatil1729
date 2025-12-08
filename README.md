@@ -66,7 +66,7 @@ class AnuragPatil:
 <div align="center">
 
 <img src="https://github-readme-stats-anurag.vercel.app/api?username=anuragpatil1729&show_icons=true&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=F700FF&bg_color=0D1117&hide_border=false" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpatil1729&theme=tokyonight&border=00F7FF&background=0D1117" height="180"/>
+
 
 <img src="https://github-readme-stats-anurag.vercel.app/api/top-langs?username=anuragpatil1729&layout=compact&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&bg_color=0D1117" height="180"/>
 
