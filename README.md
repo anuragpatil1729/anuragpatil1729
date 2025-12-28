@@ -15,7 +15,7 @@ class AnuragPatil:
         self.location = "Pune, Maharashtra, IN"
         self.specialization = [
             "Artificial Intelligence & Machine Learning",
-            "Full-Stack Development (MERN)",
+            "Full-Stack Development (MERN/MEAN)",
             "Mobile Development (Android/iOS)",
             "System Programming & Architecture"
         ]
@@ -24,9 +24,9 @@ class AnuragPatil:
     def get_tech_stack(self):
         return {
             "languages": ["Python", "JavaScript", "TypeScript", "Kotlin", "Java", "C++"],
-            "ai_ml": ["LLM Integration", "Multi-Agent Systems", "RAG", "Embeddings"],
-            "frontend": ["React", "Tailwind CSS", "Flutter"],
-            "backend": ["Node.js", "Express", "MongoDB", "Firebase", "Supabase"],
+            "ai_ml": ["LangChain", "LLM Integration", "Multi-Agent Systems", "RAG", "Embeddings"],
+            "frontend": ["React", "Next.js", "Tailwind CSS", "Flutter"],
+            "backend": ["Node.js", "Express", "Flask", "FastAPI", "Spring Boot", "MongoDB", "Firebase", "Supabase"],
             "mobile": ["Android Studio", "Flutter", "React Native"],
             "tools": ["VS Code", "Neovim", "Postman", "Git"]
         }
@@ -85,17 +85,23 @@ class AnuragPatil:
 
 ### 🎨 Frontend Arsenal
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ⚙️ Backend Infrastructure
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🤖 AI/ML Capabilities
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+- **LangChain**: Building AI Applications & Chains
 - **LLM Integration**: OpenAI GPT, Google Gemini, Local LLMs
 - **Speech Systems**: STT/TTS Engines
 - **Vector Databases**: Embeddings & Semantic Search
@@ -114,8 +120,9 @@ class AnuragPatil:
 |---------|-------------|------------|
 | 🧠 **AI Multi-Agent System** | Autonomous AI agents collaborating to solve complex tasks | Python, LangChain, OpenAI |
 | 📱 **Smart Mobile App** | Cross-platform app with AI features | Flutter, Firebase, TensorFlow Lite |
-| 🌐 **Full-Stack Platform** | Scalable web application with real-time features | React, Node.js, MongoDB, Socket.io |
+| 🌐 **Full-Stack Platform** | Scalable web application with real-time features | Next.js, FastAPI, MongoDB, Socket.io |
 | 🔊 **Voice Assistant** | Custom voice-controlled AI assistant | Python, STT/TTS, NLP |
+| ⚡ **Microservices API** | High-performance REST API with modern architecture | Spring Boot, Flask, PostgreSQL |
 
 </div>
 
